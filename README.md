@@ -39,6 +39,23 @@ Discord: [https://discord.gg/5jjWCAmvng](https://discord.gg/5jjWCAmvng)
 
 Use code: **RECAPTCHA get 10% OFF**
 
+### Thordata
+
+[![](https://github.com/user-attachments/assets/1aa1a5a0-d5bc-44bd-b446-9990bc898242)](https://www.thordata.com/?ls=github&lk=scraping)
+
+[Thordata](https://www.thordata.com/?ls=github&lk=GooglereCAPTCHA) offers enterprise-grade proxy services and search data acquisition solutions, emphasizing cost-effectiveness and ease of use.
+
+**Register now for a free trial: 1GB residential proxy + 2,000 free SERP API calls!**
+
+**Key Features:**
+
+* ⚡️ **60M+ Clean Residential IPs** – Real home broadband connections with maximum anonymity, easily bypassing advanced risk controls like Cloudflare  
+* 🌍 **195+ Countries/Regions** – Precise geolocation down to city and ISP level, access localized data from anywhere  
+* ✅ **99.9% Request Success Rate** – High-concurrency architecture with millisecond-level response, supports automatic IP rotation and flexible sticky sessions  
+* 💰 **Only 1/3 the Price of Competitors** – No markups, pay-as-you-go pricing with a permanent 30% discount code: **THOR66**
+
+👉 [Register now to get 1GB of residential proxies for free](https://www.thordata.com/?ls=github&lk=GooglereCAPTCHA)
+
 ## Installation
 Three dependencies are required to run this script. You can install them using the following command:
 ```bash
